@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace C__09
+namespace C__10
 {
     public enum Genre
     {
