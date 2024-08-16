@@ -1,0 +1,54 @@
+{
+  "Questions": [
+    {
+      "Text": "What is the capital of France?",
+      "Options": ["Paris", "London", "Berlin"],
+      "CorrectAnswers": ["Paris"]
+    },
+    {
+      "Text": "Which is the largest continent?",
+      "Options": ["Africa", "Asia", "Europe"],
+      "CorrectAnswers": ["Asia"]
+    },
+    {
+      "Text": "Which river is the longest in the world?",
+      "Options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+      "CorrectAnswers": ["Nile"]
+    },
+    {
+      "Text": "What is the smallest country in the world by land area?",
+      "Options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+      "CorrectAnswers": ["Vatican City"]
+    },
+    {
+      "Text": "Which country has the most islands?",
+      "Options": ["Sweden", "Canada", "Australia", "Norway"],
+      "CorrectAnswers": ["Sweden"]
+    },
+    {
+      "Text": "Which mountain range separates Europe and Asia?",
+      "Options": ["Rockies", "Andes", "Ural", "Alps"],
+      "CorrectAnswers": ["Ural"]
+    },
+    {
+      "Text": "What is the largest desert in the world?",
+      "Options": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+      "CorrectAnswers": ["Antarctic"]
+    },
+    {
+      "Text": "Which ocean is the smallest?",
+      "Options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "CorrectAnswers": ["Arctic"]
+    },
+    {
+      "Text": "What is the most populous city in the world?",
+      "Options": ["Tokyo", "New York", "Shanghai", "Delhi"],
+      "CorrectAnswers": ["Tokyo"]
+    },
+    {
+      "Text": "Which country is known as the Land of the Rising Sun?",
+      "Options": ["Japan", "China", "Thailand", "South Korea"],
+      "CorrectAnswers": ["Japan"]
+    }
+  ]
+}

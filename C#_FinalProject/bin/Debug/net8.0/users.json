@@ -1,0 +1,247 @@
+[
+  {
+    "Login": "2",
+    "Password": "2",
+    "DateOfBirth": "2002-02-02T00:00:00",
+    "QuizResults": [
+      {
+        "Category": "History",
+        "CorrectAnswersCount": 1,
+        "Percentage": 10,
+        "CompletionDate": "2024-08-14T17:24:40.5203257+03:00"
+      }
+    ]
+  },
+  {
+    "Login": "3",
+    "Password": "3",
+    "DateOfBirth": "2003-03-03T00:00:00",
+    "QuizResults": [
+      {
+        "Category": "History",
+        "CorrectAnswersCount": 4,
+        "Percentage": 40,
+        "CompletionDate": "2024-08-14T18:34:36.4117413+03:00"
+      }
+    ]
+  },
+  {
+    "Login": "Hlib",
+    "Password": "1111",
+    "DateOfBirth": "2006-10-06T00:00:00",
+    "QuizResults": [
+      {
+        "Category": "Geography",
+        "CorrectAnswersCount": 6,
+        "Percentage": 60,
+        "CompletionDate": "2024-08-14T21:31:21.1910183+03:00"
+      },
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 2,
+        "Percentage": 100,
+        "CompletionDate": "2024-08-14T21:31:30.7575819+03:00"
+      }
+    ]
+  },
+  {
+    "Login": "1",
+    "Password": "1",
+    "DateOfBirth": "1111-11-11T00:00:00",
+    "QuizResults": [
+      {
+        "Category": "History",
+        "CorrectAnswersCount": 4,
+        "Percentage": 40,
+        "CompletionDate": "2024-08-14T17:24:13.0057176+03:00"
+      },
+      {
+        "Category": "History",
+        "CorrectAnswersCount": 3,
+        "Percentage": 30,
+        "CompletionDate": "2024-08-14T17:25:21.5940055+03:00"
+      },
+      {
+        "Category": "Geography",
+        "CorrectAnswersCount": 1,
+        "Percentage": 10,
+        "CompletionDate": "2024-08-14T17:25:27.9837747+03:00"
+      },
+      {
+        "Category": "History",
+        "CorrectAnswersCount": 4,
+        "Percentage": 40,
+        "CompletionDate": "2024-08-14T17:38:47.192146+03:00"
+      },
+      {
+        "Category": "History",
+        "CorrectAnswersCount": 4,
+        "Percentage": 40,
+        "CompletionDate": "2024-08-14T18:00:22.141862+03:00"
+      },
+      {
+        "Category": "History",
+        "CorrectAnswersCount": 4,
+        "Percentage": 40,
+        "CompletionDate": "2024-08-14T18:15:27.9799675+03:00"
+      },
+      {
+        "Category": "Geography",
+        "CorrectAnswersCount": 6,
+        "Percentage": 60,
+        "CompletionDate": "2024-08-14T18:17:27.3082242+03:00"
+      },
+      {
+        "Category": "Mixed",
+        "CorrectAnswersCount": 10,
+        "Percentage": 52.63157894736842,
+        "CompletionDate": "2024-08-14T18:21:25.9247616+03:00"
+      },
+      {
+        "Category": "History",
+        "CorrectAnswersCount": 4,
+        "Percentage": 40,
+        "CompletionDate": "2024-08-14T18:23:58.0065404+03:00"
+      },
+      {
+        "Category": "History",
+        "CorrectAnswersCount": 4,
+        "Percentage": 40,
+        "CompletionDate": "2024-08-14T18:25:03.0566119+03:00"
+      },
+      {
+        "Category": "History",
+        "CorrectAnswersCount": 4,
+        "Percentage": 40,
+        "CompletionDate": "2024-08-14T19:50:47.8881145+03:00"
+      },
+      {
+        "Category": "Geography",
+        "CorrectAnswersCount": 6,
+        "Percentage": 60,
+        "CompletionDate": "2024-08-14T19:50:55.1650855+03:00"
+      },
+      {
+        "Category": "Mixed",
+        "CorrectAnswersCount": 9,
+        "Percentage": 47.368421052631575,
+        "CompletionDate": "2024-08-14T19:51:37.3166751+03:00"
+      },
+      {
+        "Category": "History",
+        "CorrectAnswersCount": 4,
+        "Percentage": 40,
+        "CompletionDate": "2024-08-14T19:51:41.7663962+03:00"
+      },
+      {
+        "Category": "Mixed",
+        "CorrectAnswersCount": 4,
+        "Percentage": 44.44444444444444,
+        "CompletionDate": "2024-08-14T19:53:34.3064851+03:00"
+      },
+      {
+        "Category": "Mixed",
+        "CorrectAnswersCount": 6,
+        "Percentage": 60,
+        "CompletionDate": "2024-08-14T20:19:19.0313531+03:00"
+      },
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 1,
+        "Percentage": 50,
+        "CompletionDate": "2024-08-14T20:24:16.9202033+03:00"
+      },
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 2,
+        "Percentage": 100,
+        "CompletionDate": "2024-08-14T20:24:29.0342735+03:00"
+      },
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 2,
+        "Percentage": 100,
+        "CompletionDate": "2024-08-14T20:40:06.3122165+03:00"
+      },
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 1,
+        "Percentage": 50,
+        "CompletionDate": "2024-08-14T20:42:34.181036+03:00"
+      },
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 1,
+        "Percentage": 50,
+        "CompletionDate": "2024-08-14T20:42:41.648806+03:00"
+      },
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 1,
+        "Percentage": 50,
+        "CompletionDate": "2024-08-14T20:42:49.1491921+03:00"
+      },
+      {
+        "Category": "1",
+        "CorrectAnswersCount": 1,
+        "Percentage": 100,
+        "CompletionDate": "2024-08-14T20:48:29.2837259+03:00"
+      },
+      {
+        "Category": "1",
+        "CorrectAnswersCount": 1,
+        "Percentage": 100,
+        "CompletionDate": "2024-08-14T20:53:04.3561087+03:00"
+      },
+      {
+        "Category": "1",
+        "CorrectAnswersCount": 1,
+        "Percentage": 100,
+        "CompletionDate": "2024-08-14T20:54:59.1554329+03:00"
+      },
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 1,
+        "Percentage": 50,
+        "CompletionDate": "2024-08-14T21:14:02.9545004+03:00"
+      },
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 2,
+        "Percentage": 100,
+        "CompletionDate": "2024-08-15T12:27:20.0419779+03:00"
+      },
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 2,
+        "Percentage": 100,
+        "CompletionDate": "2024-08-16T13:56:43.9872986+03:00"
+      },
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 1,
+        "Percentage": 50,
+        "CompletionDate": "2024-08-16T13:56:50.9358575+03:00"
+      }
+    ]
+  },
+  {
+    "Login": "4",
+    "Password": "4",
+    "DateOfBirth": "2002-11-11T00:00:00",
+    "QuizResults": [
+      {
+        "Category": "Math",
+        "CorrectAnswersCount": 2,
+        "Percentage": 100,
+        "CompletionDate": "2024-08-16T15:18:25.7035313+03:00"
+      }
+    ]
+  },
+  {
+    "Login": "",
+    "Password": "",
+    "DateOfBirth": "1111-11-11T00:00:00",
+    "QuizResults": []
+  }
+]

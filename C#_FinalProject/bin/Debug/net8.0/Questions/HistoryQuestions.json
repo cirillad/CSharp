@@ -1,0 +1,54 @@
+{
+  "Questions": [
+    {
+      "Text": "Which of these were presidents of the USA? (Select all that apply)",
+      "Options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "Alexander Hamilton"],
+      "CorrectAnswers": ["George Washington", "Thomas Jefferson"]
+    },
+    {
+      "Text": "Which years were part of World War II?",
+      "Options": ["1939", "1940", "1945", "1950"],
+      "CorrectAnswers": ["1939", "1940", "1945"]
+    },
+    {
+      "Text": "Who was the first emperor of China?",
+      "Options": ["Qin Shi Huang", "Kublai Khan", "Emperor Wen", "Emperor Yang"],
+      "CorrectAnswers": ["Qin Shi Huang"]
+    },
+    {
+      "Text": "Which country was not part of the Axis Powers during World War II?",
+      "Options": ["Italy", "Japan", "France", "Germany"],
+      "CorrectAnswers": ["France"]
+    },
+    {
+      "Text": "What year did the Berlin Wall fall?",
+      "Options": ["1987", "1988", "1989", "1990"],
+      "CorrectAnswers": ["1989"]
+    },
+    {
+      "Text": "Who was the British Prime Minister during World War II?",
+      "Options": ["Winston Churchill", "Neville Chamberlain", "Margaret Thatcher", "David Cameron"],
+      "CorrectAnswers": ["Winston Churchill"]
+    },
+    {
+      "Text": "Which battle was the turning point of the American Civil War?",
+      "Options": ["Battle of Gettysburg", "Battle of Antietam", "Battle of Fort Sumter", "Battle of Shiloh"],
+      "CorrectAnswers": ["Battle of Gettysburg"]
+    },
+    {
+      "Text": "What was the name of the ship that sank on its maiden voyage in 1912?",
+      "Options": ["Lusitania", "Titanic", "Britannic", "Olympic"],
+      "CorrectAnswers": ["Titanic"]
+    },
+    {
+      "Text": "Who was the leader of the Soviet Union during World War II?",
+      "Options": ["Leon Trotsky", "Joseph Stalin", "Vladimir Lenin", "Nikita Khrushchev"],
+      "CorrectAnswers": ["Joseph Stalin"]
+    },
+    {
+      "Text": "What was the main cause of the French Revolution?",
+      "Options": ["Economic hardship", "Religious conflict", "Colonial expansion", "Industrialization"],
+      "CorrectAnswers": ["Economic hardship"]
+    }
+  ]
+}
